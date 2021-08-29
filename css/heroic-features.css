@@ -28,13 +28,7 @@ color:#000;
     margin-bottom: 30px;
 }
 
-.top{background: #00a2ae;
-width: 100%;
-padding: 5px 0px; color: #f2f2f2;
-font-size: 17px;
-float:left;
 
-}
 
 header{
 width: 100%;
@@ -691,7 +685,7 @@ margin: 0px 6px 0px 0px;
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #322f30;
+   
 }
 .fa-instagram:hover {
     background-color: #000;

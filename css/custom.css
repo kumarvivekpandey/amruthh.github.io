@@ -1,0 +1,192 @@
+ #arrow {
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+#arrow:hover {
+  top: -10px;
+}
+.top{
+	color:#000;
+	background: #fff important!;
+	
+}
+.phone{
+	color:#000;
+	font-weight:800px;
+	font-size: 20px;
+}
+.phone a{
+	font-size:30px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.recp_hm p{
+	text-align:justify;
+	padding-bottom:2px;
+	font-size:15px;
+	font-family:  Lucida Bright;
+	line-height: 28px;
+}
+.recp_hm img{
+	text-align:center; 
+	display:block;
+	 margin:auto;
+	 width:336px;
+	 height:287px;
+}
+.heading_prd button{
+	color: #000; text-shadow:#fff 2px 2px;font-size:35px;
+	padding-left:3%;
+	padding-right:3%;
+	border-radius: 8px;
+	background:#cc9f57;
+}
+#scroller{
+	margin-top:1%;
+	padding-top:1%;
+}
+#scroller li img{
+	width:auto;
+	height:auto;
+}
+#scroller li h3{
+	font-size:14px;
+}
+.read_more:hover{
+background:#000;
+font-size:18px;
+
+}
+.container-fluid {
+padding:0%;
+}
+.thumbnail item{
+border: 2px solid #;
+}
+.anons{
+background:#cc9f57;
+}
+.read_more{
+	border-radius: 8px;
+}
+.glyphicon-chevron-left{
+	color: red;
+}
+.glyphicon-chevron-right{
+	color: red;
+}
+.sidelist{
+	float: left;
+	text-align:left;
+	padding-bottom:1%;
+}
+ .map-responsive{
+    overflow:show;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    margin-top:18px;
+    top:0;
+    height:80%;
+    width:100%;
+    position:absolute;
+}
+.mapbg{
+	background-image: url(https://amruth.org/wp-content/uploads/2021/04/8-scaled.jpg?id=7525);
+	padding:5%;
+}
+.form-group label{
+ font-size:18px;
+ }
+.form-group input{
+ font-size:18px;
+}
+.message_box{
+	text-align:left;
+	font-weight:100;
+}
+.footercol3 h1{
+	font-size:30px;
+}
+.footerhr{
+border:2px solid red;	
+}
+.marquee{
+	font-size:15px;
+}
+#clbh_phone_div{
+	position: fixed;
+	 bottom: -30px; 
+	 right: -35px;
+	  z-index: 80;
+}
+.social-icons{
+	font-size: 25px;
+}
+.social-icons a i{
+	background-color:transparent;
+}
+.footermid{
+font-size:18px;
+font-weight:bold;
+}
+.footermid li a{
+	font-size:20px;
+	font-weight:bold;
+}
+.zy{
+	background-color: transparent;
+	color: #fff;
+	font-weight: bold;
+	font-size:20px;
+}
+.centered a{
+font-size: 20px;
+padding:3%;
+width:100%;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: clip;
+}
+.insta {
+	
+	background-color:transparent;
+}
+.abt_bx_inner{
+	background:none;
+	 min-height:inherit;
+}
+.email_ph{
+	color:#000;
+}
+.navbar-brand img{
+width:180px;
+}
+
+
+.float{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+  margin-top:16px;
+}
